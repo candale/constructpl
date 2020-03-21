@@ -1,0 +1,2 @@
+include ctpl/VERSION
+include README.md
