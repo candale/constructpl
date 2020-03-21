@@ -10,6 +10,7 @@ setup(
     packages=find_packages(where='.'),
     install_requires=[
         'Click',
+        'docxtpl'
     ],
     include_package_data=True,
     entry_points='''
